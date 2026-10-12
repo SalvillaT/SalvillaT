@@ -59,7 +59,7 @@ Mi trayectoria previa como **deportista de alto rendimiento (tenis de mesa)** de
 - Base sólida en ingeniería de software, arquitectura de bases de datos relacionales y desarrollo en Java.
 
 **Idiomas**
-- Inglés — Nivel **B2** (MCER)
+- Inglés — Nivel **B2** (Cambridge)
 
 ---
 
