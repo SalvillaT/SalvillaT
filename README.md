@@ -1,146 +1,81 @@
-# ¡Hola! 👋 Soy Salvador Reche
+<h1 align="center">Salvador Reche</h1>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2E8B57&center=true&vCenter=true&width=600&lines=Desarrollador+de+Bases+de+Datos;%F0%9F%8D%81+Amante+del+Tenis+de+Mesa;%F0%9F%8E%B6+Apasionado+por+la+M%C3%BAsica;%F0%9F%9A%80+Explorador+de+Tecnolog%C3%ADas" alt="Typing SVG" />
-</div>
+<p align="center">
+  <strong>Data Engineer</strong> · Ecosistemas Cloud &amp; Big Data
+</p>
 
----
-
-## 🎯 Sobre Mí
-
-```python
-class SalvadorReche:
-    def __init__(self):
-        self.nombre = "Salvador Reche"
-        self.pasiones = ["Bases de Datos", "Tenis de Mesa", "Música"]
-        self.estado = "Construyendo el futuro con datos"
-        self.ubicacion = "España 🇪🇸"
-    
-    def trabajar(self):
-        return "Transformando datos en insights valiosos"
-    
-    def relajarse(self):
-        return "Jugando tenis de mesa o escuchando música"
-```
-
-## 🛠️ Tecnologías y Herramientas
-
-### 💾 Bases de Datos
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### 🔧 Lenguajes de Programación
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-### 🎾 Pasatiempos Favoritos
-
-<table>
-<tr>
-<td align="center" width="33%">
-  <img src="https://cdn-icons-png.flaticon.com/512/2942/2942811.png" width="80" height="80"/>
-  <br><b>🏓 Tenis de Mesa</b>
-  <br>Rápidos como el ping,<br>precisos como el pong
-</td>
-<td align="center" width="33%">
-  <img src="https://cdn-icons-png.flaticon.com/512/2942/2942811.png" width="80" height="80"/>
-  <br><b>🎵 Música</b>
-  <br>El ritmo que mueve<br>mi código
-</td>
-<td align="center" width="33%">
-  <img src="https://cdn-icons-png.flaticon.com/512/2942/2942811.png" width="80" height="80"/>
-  <br><b>💾 Bases de Datos</b>
-  <br>Donde la información<br>cobra vida
-</td>
-</tr>
-</table>
-
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=salvadorreche&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salvadorreche&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
-## 🎵 Mi Playlist de Desarrollo
-
-```yaml
-Desarrollo:
-  - 🎵 "Data Flow" - Mi playlist de concentración
-  - 🎵 "SQL Symphony" - Para consultas complejas
-  - 🎵 "Database Dreams" - Música ambiente para programar
-
-Tenis de Mesa:
-  - 🏓 "Ping Pong Power" - Para los entrenamientos
-  - 🏓 "Table Tennis Tunes" - Ritmo perfecto para el juego
-```
-
-## 🏆 Logros y Certificaciones
-
-- 🥇 **Master de Bases de Datos** - Especialista en optimización
-- 🏓 **Campeón Local de Tenis de Mesa** - Velocidad y precisión
-- 🎵 **DJ de Datos** - Creando armonía entre información y música
-
-## 🚀 Proyectos Destacados
-
-### 💾 Database Master Suite
-```
-🔧 Herramientas de gestión de bases de datos
-📊 Dashboards interactivos
-⚡ Optimización de consultas
-```
-
-### 🏓 Ping Pong Tracker
-```
-📱 App para seguimiento de partidos
-📈 Estadísticas de rendimiento
-🏆 Sistema de ranking
-```
-
-## 📈 Mi Evolución
-
-```mermaid
-graph LR
-    A[🎵 Música] --> B[💾 Bases de Datos]
-    B --> C[🏓 Tenis de Mesa]
-    C --> D[🚀 Desarrollo Full-Stack]
-    D --> E[🌟 Futuro Innovador]
-```
-
-## 🤝 ¡Conectemos!
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/salvadorreche)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:salvador@example.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/salvadorreche)
-
-</div>
-
-## 💡 Frase del Día
-
-> *"Los datos son como las notas musicales: cuando se organizan correctamente, crean una sinfonía de información."* 🎵💾
+<p align="center">
+  <a href="https://www.linkedin.com/in/salvadorreche"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:salvador.reche.vazquez@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=salvadorreche&style=flat-square&color=blue" alt="Profile Views" />
-  
-  **¡Gracias por visitar mi perfil!** ⭐
-  
-  *"Cada commit es un paso hacia la excelencia"* 🚀
-</div>
+## Sobre mí
+
+Data Engineer especializado en el diseño y construcción de ecosistemas **Cloud** y **Big Data**: pipelines de datos escalables, infraestructura como código y automatización end-to-end.
+
+Mi trayectoria previa como **deportista de alto rendimiento (tenis de mesa)** define mi forma de trabajar: disciplina sostenida, pensamiento estratégico bajo presión, resolución de problemas y orientación a resultados. Traslado esos mismos principios a la ingeniería de datos, priorizando fiabilidad, eficiencia y soluciones medibles.
 
 ---
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=2E8B57&center=true&vCenter=true&width=500&lines=Construyendo+el+futuro+con+datos+%F0%9F%9A%80;Un+ping+%2B+un+pong+%3D+%F0%9F%8D%81;La+m%C3%BAsica+del+c%C3%B3digo+%F0%9F%8E%B6" alt="Footer Typing" />
-</div>
+## Stack Tecnológico
+
+**Cloud &amp; IaC**
+<p>
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure">
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" alt="Terraform">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="CI/CD">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+</p>
+
+**Procesamiento &amp; Orquestación**
+<p>
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" alt="Apache Spark">
+  <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" alt="Apache Airflow">
+  <img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white" alt="dbt">
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" alt="Apache Kafka">
+  <img src="https://img.shields.io/badge/Azure_Synapse_Analytics-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Synapse Analytics">
+</p>
+
+**Lenguajes**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+</p>
+
+---
+
+## Formación Académica
+
+**Máster en Big Data y Cloud Computing**
+- TFM: Arquitectura y plataforma **MLOps end-to-end** con pipelines automatizados e Infraestructura como Código.
+
+**Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)**
+- Base sólida en ingeniería de software, arquitectura de bases de datos relacionales y desarrollo en Java.
+
+**Idiomas**
+- Inglés — Nivel **B2** (MCER)
+
+---
+
+## Proyectos Destacados
+
+> Documentación técnica en preparación. Repositorios disponibles próximamente.
+
+### MLGuard — Plataforma MLOps para Predicción de Impago
+`Microsoft Azure` · `MLOps` · `Python` · `CI/CD` · `Infraestructura como Código`
+_Plataforma MLOps end-to-end sobre Azure para un caso de negocio real: **predicción de impago (default) de préstamos personales**. Modelado sobre datos del mercado crediticio costarricense (dataset Lending Club adaptado a Costa Rica), con un **target binario** que distingue préstamos totalmente pagados (buenos) de incobrables (malos). Cubre el ciclo completo de machine learning: ingesta y preparación de datos, entrenamiento, despliegue y monitorización._
+
+### Monitorización de Localización Infantil en Tiempo Real
+`Microsoft Azure` · `Tiempo Real` · `Notificaciones` · `Cloud`
+_Plataforma para el **seguimiento en tiempo real** de la localización de menores, con generación de **alertas y avisos automáticos** ante eventos configurables. Desarrollada íntegramente sobre Microsoft Azure._
+
+## Contacto
+
+- **LinkedIn:** [salvadorreche](https://www.linkedin.com/in/salvadorreche)
+- **Email:** [salvador.reche.vazquez@gmail.com](mailto:salvador.reche.vazquez@gmail.com)
